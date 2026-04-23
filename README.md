@@ -1,4 +1,4 @@
-# 🎭 Opencart-Demo — Playwright E2E Automation Framework
+# Opencart-Demo — Playwright E2E Automation Framework
 
 > Production-grade test automation framework built with Playwright + Python covering 15+ critical user workflows on OpenCart demo site.
 
@@ -53,11 +53,11 @@ opencart-playwright/
 
 | Module | Workflows Covered |
 |---|---|
-| 🔐 Auth | Login, Register, Logout, Forgot Password |
-| 🔍 Search | Valid search, No results, Empty query, Case insensitive |
-| 📦 Product | Add to cart, Wishlist, Reviews, Breadcrumb |
-| 🛒 Cart | Add, Remove, Update qty, Checkout flow |
-| ❤️ Wishlist | Add, Remove, Move to cart |
+|  Auth | Login, Register, Logout, Forgot Password |
+| Search | Valid search, No results, Empty query, Case insensitive |
+| Product | Add to cart, Wishlist, Reviews, Breadcrumb |
+| Cart | Add, Remove, Update qty, Checkout flow |
+| Wishlist | Add, Remove, Move to cart |
 
 ---
 
